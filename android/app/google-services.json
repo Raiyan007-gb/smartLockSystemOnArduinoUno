@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "776670623415",
+    "project_id": "smartlockproject-arduinouno007",
+    "storage_bucket": "smartlockproject-arduinouno007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776670623415:android:37906cc304fdef28dd7f32",
+        "android_client_info": {
+          "package_name": "com.example.smart_lock_system_on_arduino_uno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776670623415-ub91j9lkbcnep1p8o69pmdrrlgjkmhs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqANmcjoBMCq2OMv7Kafbmwtm9nA94sgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776670623415-ub91j9lkbcnep1p8o69pmdrrlgjkmhs6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776670623415-fa4b79toss2srt4e6bl2f5i401gqbsdo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartlocksystemarduinouno"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776670623415:android:a19b879a33020f8add7f32",
+        "android_client_info": {
+          "package_name": "com.example.smartlocksystemarduinouno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776670623415-ub91j9lkbcnep1p8o69pmdrrlgjkmhs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqANmcjoBMCq2OMv7Kafbmwtm9nA94sgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776670623415-ub91j9lkbcnep1p8o69pmdrrlgjkmhs6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "776670623415-fa4b79toss2srt4e6bl2f5i401gqbsdo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartlocksystemarduinouno"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
